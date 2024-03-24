@@ -148,14 +148,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      "multiple_net_names|1143000|1536700|2d974a3e-3d5c-4178-aea6-2ca28466ce71|519a695d-089d-4ae9-a39e-acd03ad099fd",
-      "multiple_net_names|2933700|939800|2611461d-d795-437e-a11b-97f4225cb10e|2886a1f8-abbc-49f7-84fb-0f4a6aa96ba1",
-      "multiple_net_names|2933700|939800|31ec9a30-93a0-4760-bd7f-c72a9411add1|2886a1f8-abbc-49f7-84fb-0f4a6aa96ba1",
-      "power_pin_not_driven|1841500|2120900|e6e258eb-fb17-43ee-8d26-b8978acf2319|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|2070100|889000|081a8f94-e57d-4ec8-b1b2-877cfdc021d4|00000000-0000-0000-0000-000000000000",
-      "power_pin_not_driven|3175000|292100|5cbe1f29-85da-4150-840b-ed433244ad5a|00000000-0000-0000-0000-000000000000"
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
@@ -360,9 +353,7 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [
-      "Out_8x10"
-    ],
+    "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
   },
   "meta": {

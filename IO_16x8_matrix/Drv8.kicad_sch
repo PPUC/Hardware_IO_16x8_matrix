@@ -1989,7 +1989,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x09") (at 232.41 111.76 0) (unit 1)
-    (in_bom no) (on_board no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 72a27194-ae4b-4fda-a6ea-f83cb3bf7744)
     (property "Reference" "J6" (id 0) (at 234.95 110.4899 0)
       (effects (font (size 1.27 1.27)) (justify left))
