@@ -7,7 +7,7 @@
 *.bck
 *.kicad_pcb-bak
 *.kicad_sch-bak
-*-backups
+*backups
 *.kicad_prl
 *.sch-bak
 *~
@@ -27,9 +27,5 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
-
-# Gerber and others
-IO_16x8_matrix/ProductionData/
-IO_16x8_matrix/Gerber/
 
 
