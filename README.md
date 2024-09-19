@@ -5,10 +5,8 @@ Not everything is tested nor does it fulfill EMC or any other specifications.
 Use at your own risk!
 To make use of anything of this project a basic understanding of electronics and programming is necessary. Nothing of it is "plug and play". I'm surely not liable for any damage to assemblies, pinball machines or even persons.
 
-<!---
 ## Picture of the Board
 ![PCB Pic](IO_16x8_matrix/PCB_IO_16x8_matrix.jpg)
--->
 
 ## Name
 IO_16x8_matrix as it has 16 inputs and 8 signal-outputs to form a 16x8 switch matrix but could also be used as direct inputs and low power outputs. Actually it has an additional high speed output (see "Special Output" below).  
