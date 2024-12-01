@@ -6,8 +6,8 @@
 
   (title_block
     (title "IO_16x8_matrix")
-    (date "2024-02-18")
-    (rev "0.1.0")
+    (date "2024-12-01")
+    (rev "1.0.0")
   )
 
   (lib_symbols
